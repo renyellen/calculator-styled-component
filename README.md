@@ -1,2 +1,2 @@
-# calculator-styled-component
+# CalculatorStyled
 Created with CodeSandbox
